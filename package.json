@@ -10,16 +10,17 @@
     "translations/**/*"
   ],
   "license": "AGPL-3.0",
-  "homepage": "https://github.com/kaltura/playkit-js-plugin-example",
+  "homepage": "https://github.com/Kaltura-PS/playkit-js-plugin-example",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaltura/playkit-js-plugin-example"
+    "url": "https://github.com/Kaltura-PS/playkit-js-plugin-example"
   },
   "keywords": [
     "@playkit-js/plugin-example",
     "plugin-example",
     "kaltura",
-    "player"
+    "player",
+    "kaltura-ps"
   ],
   "scripts": {
     "serve": "webpack serve --open --mode development",
